@@ -12,19 +12,6 @@ Foi implementada uma aplicação completa de gerenciamento de tarefas que demons
 • Soft deletes;
 • Integração frontend/backend;
 ```
-#### Requisitos backend
-```
-• Laravel 12.x - Framework PHP
-• SQLite - Banco de dados
-• PHP 8.2+ - Linguagem de programação
-```
-#### Requisitos frontend
-```
-• Vue.js 3.4 - Framework JavaScript
-• Pinia 2.1 - Gerenciamento de estado
-• Vite 6.3 - Build tool
-• TailwindCSS 4.0 - Framework CSS
-```
 #### Configure o projeto
 ```
 • Clone o projeto
